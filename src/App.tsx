@@ -3,22 +3,15 @@ import { Sparkles } from 'lucide-react';
 const marqueeText = " ";
 
 const apps = [
-        { 
-    id: 1, 
-    name: "领航国际", 
-    description: "", 
-    iconUrl: "https://pic1.imgdb.cn/item/69f4835ec16184acf99e4245.jpg",
-    url: "https://rsesra.hfjcl.com/app/register.php?site_id=1064&pt=FA9067F8-D104-5451-A6AB-960962BAB808",
-  },
-  {
-    id: 2,
+      {
+    id: 22,
     name: "汇赢国际",
     description: "",
     iconUrl: 'https://pic1.imgdb.cn/item/69da7d4e757fdade5eafac10.jpg',
     url: 'https://ncgca.tprsmi.com/app/register.php?site_id=1062&topId=13593&selfPlanId=918',
   },
   {
-    id: 3,
+    id: 22,
     name: "非凡娱乐",
     description: "",
     iconUrl: 'https://pic1.imgdb.cn/item/68692e6658cb8da5c89176fd.jpg',
