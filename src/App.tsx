@@ -3,37 +3,30 @@ import { Sparkles } from 'lucide-react';
 const marqueeText = " ";
 
 const apps = [
-        { 
-    id: 1, 
-    name: "领航国际", 
-    description: "", 
-    iconUrl: "https://pic1.imgdb.cn/item/69f4835ec16184acf99e4245.jpg",
-    url: "https://rsesra.hfjcl.com/app/register.php?site_id=1064&pt=FA9067F8-D104-5451-A6AB-960962BAB808",
-  },
-  {
-    id: 2,
+      {
+    id: 22,
     name: "汇赢国际",
     description: "",
     iconUrl: 'https://pic1.imgdb.cn/item/69da7d4e757fdade5eafac10.jpg',
     url: 'https://ncgca.tprsmi.com/app/register.php?site_id=1062&topId=13593&selfPlanId=918',
   },
   {
-    id: 3,
-    名称：“非凡娱乐”,
+    id: 22,
+    name: "非凡娱乐",
     description: "",
     iconUrl: 'https://pic1.imgdb.cn/item/68692e6658cb8da5c89176fd.jpg',
     url: 'https://bakmry.gziasti.com/app/register.php?site_id=1050&topId=880722&selfPlanId=855049',
   },
     {
     id: 6,
-    名称: “梦想国际”,
+    name: "梦想国际",
     description: "",
     iconUrl: "https://i.postimg.cc/hPT71YSf/meng-xiang-guo-ji.jpg",
     url: "https://mgokgd.jgqvji.com/app/register.php?site_id=1061&pt=08A0E1AF-96B3-A9C8-6E51-1D02FD14ABAC",
   },
   {
     id: 1,
-    名称: “28圈”,
+    name: "28圈",
     description: "",
     iconUrl: "https://pic1.imgdb.cn/item/68692e6658cb8da5c89176f9.jpg",
     url: "https://149.30.210.144:35384/#/link?allwin=7qsbWl9437468",
@@ -47,7 +40,7 @@ const apps = [
   },
     {
     id: 3,
-    名称: 问鼎娱乐,
+    name: "问鼎娱乐",
     description: "",
     iconUrl: "https://i.postimg.cc/FR5hjNf0/wen-ding-guo-ji.webp",
     url: "https://onkrcy.hefaship.com/app/register.php?site_id=1020&topId=21543657",
@@ -55,14 +48,14 @@ const apps = [
 
      {
     id: 4,
-    名称: “君临国际”,
+    name: "君临国际",
     description: "",
     iconUrl: "https://pic1.imgdb.cn/item/695248a74b4fb88febf26626.jpg",
-    url: “https://tfajn.hcjwj.com/app/register.php?site_id=2081&topId=23647&selfPlanId=6413”,
+    url: "https://tfajn.hcjwj.com/app/register.php?site_id=2081&topId=23647&selfPlanId=6413",
   },
   {
-    编号: 5,
-    名称: “NG体育”,
+    id: 5,
+    name: "NG体育",
     description: "",
     iconUrl: "https://pic1.imgdb.cn/item/68b3af8358cb8da5c8655b32.jpg",
     url: "https://nvjmce.hfjcl.com/app/register.php?site_id=1019&topId=10325130",
@@ -84,7 +77,7 @@ const apps = [
 
    {
     id: 8,
-    名称: "top1体育",
+    name: "top1体育",
     description: "",
     iconUrl: "https://pic1.imgdb.cn/item/686c718458cb8da5c895dcf1.jpg",
     url: "https://bakmry.gziasti.com/app/register.php?site_id=1051&topId=457911",
@@ -219,4 +212,4 @@ function App() {
   );
 }
 
-导出默认应用；
+export default App;
