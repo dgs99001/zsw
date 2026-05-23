@@ -3,7 +3,16 @@ import { Sparkles } from 'lucide-react';
 const marqueeText = " ";
 
 const apps = [
-        { 
+     
+  
+  { 
+    id: 1, 
+    name: "戴高乐",
+    description: "", 
+    iconUrl: "https://pic1.imgdb.cn/item/6a11b0c96211f5ac19ec7cea.jpg",
+    url: "",
+  },
+  { 
     id: 23, 
     name: "领航国际", 
     description: "", 
