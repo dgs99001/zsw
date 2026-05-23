@@ -152,14 +152,7 @@ const apps = [
     iconUrl: 'https://pic1.imgdb.cn/item/68692e6658cb8da5c89176f8.jpg',
     url: 'https://gfvgx.jgqvji.com/app/register.php?site_id=1030&topId=1744632',
   },
-, {
-    id: 16,
-    name: "戴高乐",
-    description: "",
-    iconUrl: 'https://pic1.imgdb.cn/item/6a11b0c96211f5ac19ec7cea.jpg',
-    url: '',
-  },
-  
+ 
 ];
 
 function App() {
