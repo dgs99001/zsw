@@ -157,7 +157,7 @@ const apps = [
     name: "戴高乐",
     description: "",
     iconUrl: 'https://pic1.imgdb.cn/item/6a11b0c96211f5ac19ec7cea.jpg',
-    url: 'https://pkajim.hfjcl.com/app/register.php?site_id=1032&topId=1056008',
+    url: '',
   },
   
 ];
