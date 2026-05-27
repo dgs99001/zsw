@@ -9,8 +9,8 @@ const apps = [
     id: 1, 
     name: "戴高乐",
     description: "", 
-    iconUrl: "https://pic1.imgdb.cn/item/6a16f2efcf685663461371d7.jpg",
-    url: "https://hbffbr.hcjwj.com/app/register.php?site_id=2091&topId=79040",
+    iconUrl: "https://pic1.imgdb.cn/item/6a11b0c96211f5ac19ec7cea.jpg",
+    url: "",
   },
   { 
     id: 23, 
